@@ -11,7 +11,7 @@
 
 STM32系列中基于ARM Cortex-M3内核32位的微控制器，主频72MHz，LQFP封装48PIN
 
-[![sites](SoC/STM32F103C.png)](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html) 
+[![sites](SoC/STM32F103.png)](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html) 
 
 ## [组成](https://github.com/sochub/STM32F103C)
 

@@ -1,31 +1,26 @@
-# [STM32F103C](https://github.com/sochub/STM32F103C) 
-
+# [STM32F105](https://github.com/sochub/STM32F105)
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-
 ####  qitas@qitas.cn
-
-#### 父级：[STM32F103](https://github.com/sochub/STM32F103) 
+#### 父级：[STM32F1](https://github.com/sochub/STM32F1) 
 #### 归属：[Cortex M3](https://github.com/sochub/CM3) 
+## [简介](https://github.com/sochub/STM32F105/wiki)
 
-## [简介](https://github.com/sochub/STM32F103C/wiki)
+STM32F105器件采用Cortex-M3内核，CPU最高速度达72 MHz。
 
-STM32系列中基于ARM Cortex-M3内核32位的微控制器，主频72MHz，LQFP封装48PIN
+该系列具有64~256KB片上Flash存储器、64KB SRAM和14个通信接口。
 
-[![sites](SoC/STM32F103.png)](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html) 
+[![sites](SoC/STM32F105.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/stm32f105-107.html) 
 
-## [组成](https://github.com/sochub/STM32F103C)
+### [收录资源](https://github.com/sochub/STM32F105)
 
-#### [文档](docs/)
+* [参考文档](docs/)
+* [参考资源](src/)
+* [模板工程](demo/)
+* [编译工具](https://github.com/sochub/arm-none-eabi)
 
-#### [资源](src/)
+### [替换方案](https://github.com/sochub/STM32F105)
 
-#### [工程](project/)
+* 向下替换方案 [STM32F103](https://github.com/sochub/STM32F103) 
+* 向上替换方案 [STM32F107](https://github.com/sochub/STM32F107) 
 
-### [相似产品](https://github.com/sochub/STM32F103)
-
-- [STM32F103R](https://github.com/sochub/STM32F103R) 
-
-- [STM32F103V](https://github.com/sochub/STM32F103R) 
-
-##  [SoC开发平台](http://www.qitas.cn)  
-
+##  [SoC资源平台](http://www.qitas.cn)
